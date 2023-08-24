@@ -1,0 +1,89 @@
+# Arquivos de compilação Java
+
+*.class
+
+ 
+
+# Arquivos de build Maven
+
+target/
+
+ 
+
+# Arquivos de configuração do Eclipse
+
+.settings/
+
+ 
+
+# Logs e arquivos temporários
+
+*.log
+
+*.log.*
+
+log/
+
+logs/
+
+*.tmp
+
+ 
+
+# Arquivos de configuração do IntelliJ IDEA
+
+.idea/
+
+ 
+
+# Dependências Maven
+
+/.classpath
+
+/.project
+
+/.factorypath
+
+ 
+
+# Arquivos de relatório de testes
+
+test-output/
+
+ 
+
+# Arquivos de capturas de tela
+
+*.png
+
+ 
+
+# Arquivos de registro do Selenium WebDriver
+
+geckodriver.log
+
+chromedriver.log
+
+ 
+
+# Arquivos de sistema
+
+.DS_Store
+
+Thumbs.db
+
+ 
+
+# Variáveis de ambiente e chaves secretas (nunca adicione chaves reais no .gitignore, apenas exemplos)
+
+.env
+
+config.properties
+
+ 
+
+# Arquivos de saída e binários
+
+bin/
+
+out/
